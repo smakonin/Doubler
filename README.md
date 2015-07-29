@@ -1,6 +1,6 @@
 # Doubler
 
-A feedforward backpropogation numeral network that can learn to double numbers.
+A feedforward backpropogation neural network that can learn to double numbers.
 
 Compiles w/o issue using GCC on Linux. Run:
 ```
